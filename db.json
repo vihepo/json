@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "offercard": [
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
-  "comments": [
+  "autocomplete": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ]
 }
