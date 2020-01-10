@@ -1,7 +1,7 @@
 {
   "offercard": [
     {
-      "status": active,
+      "status": 1,
     }
   ],
   "autocomplete": {
