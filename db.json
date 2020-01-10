@@ -1,7 +1,8 @@
 {
-  "offercard": [
+  "posts": [
     {
-      "status": 1
+      "id": 1,
+      "title": "hello"
     }
   ],
   "profile": {
