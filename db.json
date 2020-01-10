@@ -1,5 +1,16 @@
 {
-  "posts": [
+  "offercard": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+{
+  "autocomplete": [
     {
       "id": 1,
       "title": "hello"
