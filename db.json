@@ -4,7 +4,7 @@
       "status": 1
     }
   ],
-  "autocomplete": {
+  "autocomplete": [
      "blu" : "blucode" "blumen", "blumenkohl"
-  }
+  ]
 }
