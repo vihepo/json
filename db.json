@@ -1,6 +1,6 @@
 {
   "offercard": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "status": 1, "flightinfo": "This is when you fly", "totalprice": "812,45 €" }
   ],
   "autocomplete": [
     { "id": 1, "body": "some comment", "postId": 1 }
